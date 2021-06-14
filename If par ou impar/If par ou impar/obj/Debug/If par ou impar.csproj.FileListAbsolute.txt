@@ -1,0 +1,6 @@
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\If par ou impar\If par ou impar\bin\Debug\If par ou impar.exe.config
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\If par ou impar\If par ou impar\bin\Debug\If par ou impar.exe
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\If par ou impar\If par ou impar\bin\Debug\If par ou impar.pdb
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\If par ou impar\If par ou impar\obj\Debug\If par ou impar.csprojResolveAssemblyReference.cache
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\If par ou impar\If par ou impar\obj\Debug\If par ou impar.exe
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\If par ou impar\If par ou impar\obj\Debug\If par ou impar.pdb

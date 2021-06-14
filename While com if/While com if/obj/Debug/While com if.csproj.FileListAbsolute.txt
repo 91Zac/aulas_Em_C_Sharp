@@ -1,0 +1,7 @@
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While com if\While com if\bin\Debug\While com if.exe.config
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While com if\While com if\bin\Debug\While com if.exe
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While com if\While com if\bin\Debug\While com if.pdb
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While com if\While com if\obj\Debug\While com if.csprojAssemblyReference.cache
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While com if\While com if\obj\Debug\While com if.csproj.CoreCompileInputs.cache
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While com if\While com if\obj\Debug\While com if.exe
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While com if\While com if\obj\Debug\While com if.pdb

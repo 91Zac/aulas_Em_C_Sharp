@@ -1,0 +1,31 @@
+e:\users\aluno\documents\visual studio 2012\Projects\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.exe.config
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.exe.config
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.exe
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.pdb
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.csprojResolveAssemblyReference.cache
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC_em_desenvolvimento.Form1.resources
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC_em_desenvolvimento.Properties.Resources.resources
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.csproj.GenerateResource.Cache
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.exe
+G:\PASTA PRINCIPAL\AULAS PREPARADAS\AULAS PREPARADAS PROGRAMAÇÃO\C# Forms Aplication\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.pdb
+G:\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.exe.config
+G:\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.exe
+G:\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.pdb
+G:\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.exe
+G:\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.pdb
+G:\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.csprojResolveAssemblyReference.cache
+G:\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC_em_desenvolvimento.Form1.resources
+G:\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC_em_desenvolvimento.Properties.Resources.resources
+G:\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.csproj.GenerateResource.Cache
+G:\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC_em_desenvolvimento.Formulariodeabertura.resources
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.exe.config
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.exe
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\bin\Debug\IMC em desenvolvimento.pdb
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.csprojAssemblyReference.cache
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC_em_desenvolvimento.Form1.resources
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC_em_desenvolvimento.Formulariodeabertura.resources
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC_em_desenvolvimento.Properties.Resources.resources
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.csproj.GenerateResource.cache
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.csproj.CoreCompileInputs.cache
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.exe
+C:\Users\zaqc\Desktop\ISAC C OLIVEIRA\PROGRAMAÇÃO\IMC em desenvolvimento\IMC em desenvolvimento\obj\Debug\IMC em desenvolvimento.pdb

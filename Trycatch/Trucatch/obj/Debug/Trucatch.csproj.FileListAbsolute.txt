@@ -1,0 +1,7 @@
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\Trucatch\Trucatch\bin\Debug\Trucatch.exe.config
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\Trucatch\Trucatch\bin\Debug\Trucatch.exe
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\Trucatch\Trucatch\bin\Debug\Trucatch.pdb
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\Trucatch\Trucatch\obj\Debug\Trucatch.csprojAssemblyReference.cache
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\Trucatch\Trucatch\obj\Debug\Trucatch.csproj.CoreCompileInputs.cache
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\Trucatch\Trucatch\obj\Debug\Trucatch.exe
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\Trucatch\Trucatch\obj\Debug\Trucatch.pdb

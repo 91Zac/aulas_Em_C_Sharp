@@ -1,0 +1,6 @@
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

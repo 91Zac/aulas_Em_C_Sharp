@@ -1,0 +1,5 @@
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\mediaAlunos\mediaAlunos\bin\Debug\mediaAlunos.exe.config
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\mediaAlunos\mediaAlunos\bin\Debug\mediaAlunos.exe
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\mediaAlunos\mediaAlunos\bin\Debug\mediaAlunos.pdb
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\mediaAlunos\mediaAlunos\obj\Debug\mediaAlunos.exe
+E:\ISAC C OLIVEIRA\PROGRAMAÇÃO\mediaAlunos\mediaAlunos\obj\Debug\mediaAlunos.pdb

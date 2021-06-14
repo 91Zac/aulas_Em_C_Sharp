@@ -1,0 +1,7 @@
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While nome idade\While nome idade\bin\Debug\While nome idade.exe.config
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While nome idade\While nome idade\bin\Debug\While nome idade.exe
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While nome idade\While nome idade\bin\Debug\While nome idade.pdb
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While nome idade\While nome idade\obj\Debug\While nome idade.csprojAssemblyReference.cache
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While nome idade\While nome idade\obj\Debug\While nome idade.csproj.CoreCompileInputs.cache
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While nome idade\While nome idade\obj\Debug\While nome idade.exe
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\While nome idade\While nome idade\obj\Debug\While nome idade.pdb

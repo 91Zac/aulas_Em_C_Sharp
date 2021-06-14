@@ -1,0 +1,7 @@
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\for 1\for 1\bin\Debug\for 1.exe.config
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\for 1\for 1\bin\Debug\for 1.exe
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\for 1\for 1\bin\Debug\for 1.pdb
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\for 1\for 1\obj\Debug\for 1.csprojAssemblyReference.cache
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\for 1\for 1\obj\Debug\for 1.csproj.CoreCompileInputs.cache
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\for 1\for 1\obj\Debug\for 1.exe
+C:\Users\zaqc\Desktop\Programação\ISAC C OLIVEIRA\PROGRAMAÇÃO\for 1\for 1\obj\Debug\for 1.pdb

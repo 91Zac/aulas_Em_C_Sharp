@@ -1,0 +1,7 @@
+C:\Users\zaqc\source\repos\teste maior menor\teste maior menor\bin\Debug\teste maior menor.exe.config
+C:\Users\zaqc\source\repos\teste maior menor\teste maior menor\bin\Debug\teste maior menor.exe
+C:\Users\zaqc\source\repos\teste maior menor\teste maior menor\bin\Debug\teste maior menor.pdb
+C:\Users\zaqc\source\repos\teste maior menor\teste maior menor\obj\Debug\teste maior menor.csprojAssemblyReference.cache
+C:\Users\zaqc\source\repos\teste maior menor\teste maior menor\obj\Debug\teste maior menor.csproj.CoreCompileInputs.cache
+C:\Users\zaqc\source\repos\teste maior menor\teste maior menor\obj\Debug\teste maior menor.exe
+C:\Users\zaqc\source\repos\teste maior menor\teste maior menor\obj\Debug\teste maior menor.pdb
